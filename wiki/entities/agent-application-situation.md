@@ -23,4 +23,5 @@
 
 应用态势研判界定**对象与暴露面** → 为 [风险分类分级](agent-decision-risk-taxonomy.md) 提供风险落点 → 为 [决策安全沙箱](decision-security-sandbox.md) 提供需要监控/测评的真实操作面。[Optima-Bench](optima-bench.md) 的 31 技能域 / 243 命令即一组已落地的工具调用型操作面样本。
 
+交付：[报告② 提纲](../analyses/2026-05-31-report-2-application-analysis-outline.md)
 相关：[总览](../overview/decision-security-sandbox.md)

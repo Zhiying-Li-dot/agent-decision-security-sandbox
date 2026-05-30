@@ -16,6 +16,11 @@
 ## 分析
 - [研究计划与考核指标（12 个月）](wiki/analyses/2026-05-30-research-plan-and-kpis.md) — 四阶段、三份报告、量化 KPI
 
+## 交付报告提纲（三份）
+- [报告① 决策安全沙箱关键技术](wiki/analyses/2026-05-31-report-1-sandbox-outline.md) — 技术核心（研究线③）
+- [报告② 智能体技术应用发展分析](wiki/analyses/2026-05-31-report-2-application-analysis-outline.md) — 态势综述（研究线①）
+- [报告③ 智能体风险分类分级分析](wiki/analyses/2026-05-31-report-3-risk-taxonomy-outline.md) — 风险体系（研究线②）
+
 ## 来源
 - [长安通信 #25 任务选题](wiki/sources/2026-05-30-changan-task-25.md)
 - [Optima-Bench 开源仓库](wiki/sources/2026-05-30-optima-bench.md)

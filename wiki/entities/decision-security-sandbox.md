@@ -34,4 +34,5 @@
 
 建立人机混合决策回路的**动态测评**体系，量化沙箱效能：危害拦截率、误拦率、任务效用保持率、攻击防御成功率。复用 [Optima-Bench](optima-bench.md) 的 pass^k 与 6 维诊断指标作为测评方法基础——把"事后评测"变为"运行时的仿真—评估—干预"。
 
+交付：[报告① 提纲](../analyses/2026-05-31-report-1-sandbox-outline.md)
 相关：[总览](../overview/decision-security-sandbox.md) · [决策风险分类分级](agent-decision-risk-taxonomy.md) · [研究计划与考核指标](../analyses/2026-05-30-research-plan-and-kpis.md)

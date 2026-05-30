@@ -31,4 +31,5 @@
 - 为**态势研判**提供风险落点；
 - 为**决策安全沙箱**提供静态研判依据：高危 + 不可逆 + 批量/全局 优先触发拦截或[影子执行](decision-security-sandbox.md)。
 
+交付：[报告③ 提纲](../analyses/2026-05-31-report-3-risk-taxonomy-outline.md)
 相关：[总览](../overview/decision-security-sandbox.md) · [研究计划](../analyses/2026-05-30-research-plan-and-kpis.md)

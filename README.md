@@ -27,6 +27,7 @@
   - [③ 决策安全沙箱机制](wiki/entities/decision-security-sandbox.md)
 - **工程底座**：[Optima-Bench](wiki/entities/optima-bench.md)
 - **分析**：[研究计划与考核指标（12 个月 / 三份报告）](wiki/analyses/2026-05-30-research-plan-and-kpis.md)
+- **交付报告提纲**：[① 沙箱关键技术](wiki/analyses/2026-05-31-report-1-sandbox-outline.md) · [② 应用发展分析](wiki/analyses/2026-05-31-report-2-application-analysis-outline.md) · [③ 风险分类分级](wiki/analyses/2026-05-31-report-3-risk-taxonomy-outline.md)
 - **来源**：[长安 #25 任务选题](wiki/sources/2026-05-30-changan-task-25.md) · [Optima-Bench](wiki/sources/2026-05-30-optima-bench.md)
 - **维护**：[AGENTS.md](AGENTS.md) · [索引](index.md) · [变更日志](log.md)
 
